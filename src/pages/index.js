@@ -35,7 +35,7 @@ export default (() => {
 			</Box>
 		</Section>
 		<Section background="--color-darkL2" padding="64px 0" sm-padding="40px 0" hover-background="--color-secondary">
-			<Override slot="SectionContent" background="--color-green" />
+			<Override slot="SectionContent" hover-background="#d32020" />
 			<Stack>
 				<StackItem width="50%" lg-width="100%">
 					<Override
